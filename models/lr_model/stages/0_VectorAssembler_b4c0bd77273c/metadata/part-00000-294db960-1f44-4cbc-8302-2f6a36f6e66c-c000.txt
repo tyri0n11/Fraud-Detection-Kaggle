@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1767286975938,"sparkVersion":"4.1.0","uid":"VectorAssembler_b4c0bd77273c","paramMap":{"inputCols":["TX_AMOUNT","LOG_TX_AMOUNT","TX_TIME_SECONDS","TX_TIME_DAYS","TX_HOUR","IS_NIGHT","IS_WEEKEND"],"outputCol":"features"},"defaultParamMap":{"handleInvalid":"error","outputCol":"VectorAssembler_b4c0bd77273c__output"}}
