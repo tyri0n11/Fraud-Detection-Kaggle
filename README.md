@@ -1,4 +1,5 @@
-# Fraud Detection - Kaggle Competition
+# Fraud Detection Kaggle
+
 
 A comprehensive machine learning project for credit card fraud detection using Apache Spark and PySpark MLlib. This project implements multiple classification models to detect fraudulent transactions in a highly imbalanced dataset.
 
